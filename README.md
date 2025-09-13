@@ -8,7 +8,7 @@ You can install GMQN R package by following steps. We will submit the R package 
 
 ```{r}
 devtools::install_github('YangFei1018/gmqn2')
-library(gmqn)
+library(gmqn2)
 ```
 ## Dependencies
 GMQN 2.0 depends on the following packages, all available in CRAN.
